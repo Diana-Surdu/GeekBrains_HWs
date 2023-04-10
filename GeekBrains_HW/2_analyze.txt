@@ -1,0 +1,20 @@
+The web-site https://ru.wikipedia.org/ is composed of header - at the top of the page, content - in the center, additional menu - at the left and footer - at the bottom of the page, under the main content. 
+The header includes at the right side some references, which are used to link from one page to another, to help a client to create a profile or to access it if the user has already one. Also it has some additional references and, of course, an input for searching.
+The addtional menu (in the left side of the page) includes submenus with different references that will help the user to navigate on the web-page.
+The content is structured in more blocks with different themes such as : 
+-Избранная статья, 
+-Из новых материалов, 
+-Хорошая статья, 
+-Текущие события, 
+-В этот день, Изображение дня, 
+-Совместная работа недели. 
+In the main content, at the bottom, we can see some icons  that a references to the others web-pages.
+And finally, the footer contains the links to the page where we can get info about: 
+-Privacy policy
+-About Wikipedia
+-Disclaimers
+-Contact Wikipedia
+-Mobile view
+-Developers
+-Statistics
+-Cookie statement  
