@@ -1,0 +1,47 @@
+{
+  "Students": 
+  [
+    {
+      "id": "1",
+      "name": "Anna",
+      "age": "20",
+      "address": "Chisinau"
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "age": "16",
+      "address": "New York"
+    },
+    {
+      "id": "3",
+      "name": "Mary",
+      "age": "37",
+      "address": "Moscow"
+    },
+    {
+      "id": "4",
+      "name": "Oleg",
+      "age": "23",
+      "address": "Kiev"
+    },
+    {
+      "id": "5",
+      "name": "Marcus",
+      "age": "50",
+      "address": "Madrid"
+    },
+    {
+      "id": "6",
+      "name": "Stefania",
+      "age": "32",
+      "address": "Roma"
+    },
+    {
+      "id": "7",
+      "name": "Cristina",
+      "age": "20",
+      "address": "Chisinau"
+    }
+  ]
+}
