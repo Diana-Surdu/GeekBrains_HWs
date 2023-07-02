@@ -1,7 +1,7 @@
 #   Напишите программу, которая принимает две строки вида “a/b” - дробь с числителем и знаменателем. 
 #   Программа должна возвращать сумму и произведение* дробей. Для проверки своего кода используйте модуль fractions.
 
-import fractions
+from fractions import Fraction
 
 frac_str_01 = input('Insert a fractional number: ')
 frac_str_02 = input('Insert a fractional number: ')
@@ -31,6 +31,17 @@ fraction_numerator_2 = list_str_01[0] * list_str_02[0]
 fraction_denominator_2 = list_str_01[1] * list_str_02[1]
 
 print(f'{frac_str_01} * {frac_str_02} = {fraction_numerator_2}/{fraction_denominator_2}')
+
+
+print('-------------------')
+
+
+# verification using franstions module
+a = Fraction(frac_str_01)
+b = Fraction(frac_str_02)
+print(f'{frac_str_01} + {frac_str_02} = {a + b}')
+print(f'{frac_str_01} * {frac_str_02} = {a * b}')
+
 
 
 
