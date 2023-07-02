@@ -10,8 +10,6 @@ frac_str_02 = input('Insert a fractional number: ')
 list_str_01 = frac_str_01.split('/')
 list_str_02 = frac_str_02.split('/')
 
-print(list_str_01, '----------', list_str_02)
-
 for i in range(0, len(list_str_01)):
     list_str_01[i] = int(list_str_01[i])
 
